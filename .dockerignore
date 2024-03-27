@@ -1,0 +1,13 @@
+#Node.js
+#No caso de projetos Node.js, é eficaz excluir arquivos como node_modules e npm-debug.
+
+**/node_modules/
+**/backups/
+#**/libs/
+#**/dist
+#.git
+#npm-debug.log
+#.coverage
+#.coverage.*
+#.env
+#.aws
